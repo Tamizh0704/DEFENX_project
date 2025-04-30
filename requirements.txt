@@ -1,0 +1,12 @@
+﻿darkdetect
+httpx
+PyQt6
+PyQt6-WebEngine
+screeninfo
+py-cpuinfo
+psutil
+vulners
+WMI
+getmac
+portscan
+windows_tools
